@@ -1,0 +1,3 @@
+"job_skill_id","job_language_id","country_id","job_Type_id","job_category_id","minPayScale","maxPayScale","minExperience","maxExperience"
+1#,1#,1,1,1,200000,500000,2,5
+1#,1#,1,1,1,2000000,600000,2,15
